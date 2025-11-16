@@ -1,9 +1,10 @@
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 
 public class ToDoList {
-    private ArrayList<String> tasks = new ArrayList<>();
+    private List<String> tasks = new ArrayList<>();
     private Scanner scanner = new Scanner(System.in);
 
 
